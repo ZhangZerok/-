@@ -1,0 +1,3 @@
+import tkinter.messagebox
+while True:
+     tkinter.messagebox.showerror('Windows 错误','还不快去学习！')
